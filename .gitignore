@@ -1,3 +1,5 @@
 .luarc.json
 .vscode/
 dependencies/
+dependencies/*
+run_balatro.sh
