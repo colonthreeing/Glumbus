@@ -25,7 +25,12 @@ AltTexture({
         'j_mime',
         'j_flower_pot',
         'j_smiley',
-        'j_scholar'
+        'j_scholar',
+        'j_burglar',
+        'j_egg',
+        'j_photograph',
+        'j_gros_michel',
+        'j_stuntman'
     },
     soul_keys = {
         'j_hologram'
