@@ -22,6 +22,10 @@ AltTexture({
         'j_space',
         'j_drivers_license',
         'j_blackboard',
+        'j_mime',
+        'j_flower_pot',
+        'j_smiley',
+        'j_scholar'
     },
     soul_keys = {
         'j_hologram'

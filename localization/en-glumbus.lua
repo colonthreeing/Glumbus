@@ -16,6 +16,12 @@ return {
             },
             j_stencil = {
                 name = "glumbus Stencil"
+            },
+            j_flower_pot = {
+                name = "glumbus Pot"
+            },
+            j_smiley = {
+                name = "Uni Face"
             }
         }
     },
