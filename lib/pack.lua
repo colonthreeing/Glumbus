@@ -30,7 +30,13 @@ AltTexture({
         'j_egg',
         'j_photograph',
         'j_gros_michel',
-        'j_stuntman'
+        'j_stuntman',
+        'j_misprint',
+        'j_oops',
+        'j_even_steven',
+        'j_odd_todd',
+        'j_raised_fist',
+        'j_8_ball'
     },
     soul_keys = {
         'j_hologram'

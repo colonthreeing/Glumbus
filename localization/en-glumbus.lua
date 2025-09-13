@@ -22,6 +22,9 @@ return {
             },
             j_smiley = {
                 name = "Uni Face"
+            },
+            j_raised_fist = {
+                name = "Raised Paw"
             }
         }
     },
