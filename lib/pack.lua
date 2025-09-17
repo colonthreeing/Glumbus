@@ -36,10 +36,15 @@ AltTexture({
         'j_even_steven',
         'j_odd_todd',
         'j_raised_fist',
-        'j_8_ball'
+        'j_8_ball',
+        'j_throwback',
+        'j_diet_cola',
+        'j_sock_and_buskin',
+        'j_square',
     },
     soul_keys = {
-        'j_hologram'
+        'j_hologram',
+        'j_diet_cola',
     }
 })
 
