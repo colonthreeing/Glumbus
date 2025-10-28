@@ -44,7 +44,7 @@ AltTexture({
         'j_obelisk',
         'j_ramen',
         'j_jolly',
-        'j_rebate',
+        'j_mail',
         'j_blue_joker',
         'j_constellation',
         'j_castle',
