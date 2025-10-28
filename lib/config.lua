@@ -15,6 +15,13 @@ SMODS.current_mod.config_tab = function()
                 ref_table = SMODS.Mods["glumbus"].config,
                 ref_value = "enable_main_menu_glumbus"
             }),
+            (G.LANG.key == "en-glumbus" and
+            create_toggle({
+                id = "enable_main_menu_glumbus",
+                label = localize("k_glumbus_enable_inside_jokes"),
+                ref_table = SMODS.Mods["glumbus"].config,
+                ref_value = "enable_inside_jokes"
+            }) or nil),
         }
     }
 end

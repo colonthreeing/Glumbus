@@ -14,3 +14,8 @@ if you are using the friends of glumbus textures, it is recommended to change th
 contains options in the mod settings:
 
 1. enable glumbus in the main menu: defaults to true, makes an extra card (glumbus) appear in the main menu
+
+
+there is a glumbus discord server!! it's the best place to submit ideas, photos, or suggestions (or even just to hang) :3
+
+[join](https://discord.com/invite/drQ8V598sd)

@@ -41,10 +41,18 @@ AltTexture({
         'j_diet_cola',
         'j_sock_and_buskin',
         'j_square',
+        'j_obelisk',
+        'j_ramen',
+        'j_jolly',
+        'j_rebate',
+        'j_blue_joker',
+        'j_constellation',
+        'j_castle',
     },
     soul_keys = {
         'j_hologram',
         'j_diet_cola',
+        'j_ramen',
     }
 })
 
