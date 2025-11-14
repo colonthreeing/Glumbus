@@ -7,8 +7,14 @@
     "main_file": "main.lua",
     "priority": 0,
     "badge_text_colour": "FFFFFF",
+    "badge_colour": "eac79d",
     "display_name": "Glumbus",
-    "version": "0.2.4b",
-    "dependencies": ["Steamodded (>=1.*)", "Lovely (>=0.6)", "malverk"],
+    "version": "0.2.5",
+    "dependencies": [
+        "Steamodded (>=1.*)",
+        "Lovely (>=0.6)",
+        "malverk",
+        "libcredit (>=0.4.1)"
+    ],
     "conflicts": []
 }
