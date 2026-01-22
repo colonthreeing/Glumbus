@@ -2,7 +2,9 @@
 
 glumbus
 
-requiers malverk
+requiers malverk and [CreditLib](https://github.com/colonthreeing/CreditLib)
+
+(It may ask for libcredit rather than CreditLib, but creditlib is the correct mod.)
 
 contains two different options packs for malverk:
 
